@@ -1,6 +1,6 @@
 using System;
 
-namespace CSahrp.NET.Models
+namespace CSahrp.NET.Models.ViewModels
 {
     public class ErrorViewModel
     {
